@@ -16,8 +16,6 @@ These apps were made with OpenFrameworks and require version 0.71 to compile: ht
 
 These apps use the following CC media from Vimeo.com:
 
-"Sprengung der Fliegerbombe / Schwabing, Muenchen / 28.8.2012" By Simon Aschenbrenner
-https://vimeo.com/48399328
+"Sprengung der Fliegerbombe / Schwabing, Muenchen / 28.8.2012" By Simon Aschenbrenner: https://vimeo.com/48399328
 
-"The Target" by Jacob Dow
-https://vimeo.com/35391502
+"The Target" by Jacob Dow: https://vimeo.com/35391502
