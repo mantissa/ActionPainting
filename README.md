@@ -5,7 +5,7 @@ Here's a few techniques I used to collect shapes from action film sequences for 
 
 Action Painting is a series of animated paintings in the style of Jackson Pollock composed using sampled shapes and sounds from action flicks as material.
 
-You can view the videos at http://mantissa.ca/projects/actionpainting.php
+You can view the animations at http://mantissa.ca/projects/actionpainting.php
 
 01_ColorPicking demonstrates how to use openCV to extract and save shapes of a specific color using a rotoscope-like technique
 02_MovieColorTracking demonstrates how to track colors within the frames of movies to create painterly animations
